@@ -1,2 +1,5 @@
-# nvim
-nvim config
+Requirements:  
+nvim
+node  
+gradlew  
+pip  
